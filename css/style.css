@@ -9,6 +9,13 @@
 # General
 --------------------------------------------------------------*/
 
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two&display=swap');
+
+.fancy {
+  font-family: 'Lobster Two', cursive;
+  color: #5c8d8e;
+}
+
 body {
   background: #fff;
   color: #444;
@@ -183,7 +190,6 @@ h6 {
 }
 
 #intro .intro-info {
-  width: 50%;
   float: left;
 }
 
@@ -373,7 +379,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active > a,
 .mobile-nav li:hover > a {
-  color: #5c8d8e;
+  color: #266363;
   text-decoration: none;
 }
 
@@ -1165,7 +1171,7 @@ h6 {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #0067d5;
+  background: #266363;
   cursor: pointer;
 }
 
@@ -1225,7 +1231,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #0067d5;
+  background: #266363;
   color: #fff;
 }
 
@@ -1338,7 +1344,7 @@ h6 {
   }
 
   #intro {
-    padding: 140px 0 60px 0;
+    padding: 200px 0 60px 0;
   }
 
   #intro .intro-img {
@@ -1348,7 +1354,6 @@ h6 {
   }
 
   #intro .intro-info {
-    width: 80%;
     float: none;
     margin: auto;
     text-align: center;
@@ -1397,6 +1402,6 @@ h6 {
 
 @media (max-width: 574px) {
   #intro {
-    padding: 100px 0 20px 0;
+    padding: 200px 0 20px 0;
   }
 }
