@@ -462,12 +462,8 @@ h6 {
 }
 
 .section-header p {
-  text-align: center;
-  margin: auto;
-  font-size: 15px;
   padding-bottom: 60px;
   color: #556877;
-  width: 50%;
 }
 
 /* Section with background
@@ -617,7 +613,6 @@ h6 {
 }
 
 #services .title {
-  margin-left: 40px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
@@ -627,13 +622,8 @@ h6 {
   color: #111;
 }
 
-#services .box:hover .title a {
-  color: #5c8d8e;
-}
-
 #services .description {
   font-size: 14px;
-  margin-left: 40px;
   line-height: 24px;
   margin-bottom: 0;
 }
