@@ -18,7 +18,7 @@
 }
 
 body {
-  background: #fff;
+  background: #fff;S
   color: #444;
   font-family: "Open Sans", sans-serif;
 }
@@ -1056,7 +1056,7 @@ h6 {
   overflow: hidden;
 }
 
-#contact .section-header {
+.section-header {
   padding-bottom: 30px;
 }
 
