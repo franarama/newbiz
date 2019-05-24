@@ -1330,9 +1330,6 @@ h6 {
   #testimonials .testimonial-item p {
     width: 80%;
   }
-  #services .box {
-    margin: 0 200px 40px 200px;
-  }
 }
 
 @media (max-width: 991px) {
@@ -1364,10 +1361,6 @@ h6 {
 
   #why-us .card {
     margin: 0;
-  }
-
-  #services .box {
-    margin: 0 10px 40px 10px;
   }
 }
 
