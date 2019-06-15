@@ -248,6 +248,10 @@ h6 {
 
 /* Desktop Navigation */
 
+a i.fa {
+  font-size: 20px;
+}
+
 .main-nav {
   /* Drop Down */
   /* Deep Drop Down */
@@ -1402,6 +1406,6 @@ h6 {
 
 @media (max-width: 574px) {
   #intro {
-    padding: 200px 0 20px 0;
+    padding: 126px 0 20px 0;
   }
 }
